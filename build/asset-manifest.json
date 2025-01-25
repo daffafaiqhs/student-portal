@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15bd2ef1.css",
+    "main.js": "/static/js/main.2388d48b.js",
+    "static/media/background-brain-academy-by-ruangguru1598874643-l.webp": "/static/media/background-brain-academy-by-ruangguru1598874643-l.1027ab52ccac9d051c42.webp",
+    "static/media/Logo_Kampus_Merdeka_Kemendikbud.webp": "/static/media/Logo_Kampus_Merdeka_Kemendikbud.c16fc7f7900b89b0d319.webp",
+    "static/media/Logo_of_Ministry_of_Education_and_Culture_of_Republic_of_Indonesia.webp": "/static/media/Logo_of_Ministry_of_Education_and_Culture_of_Republic_of_Indonesia.0f0f5b0e9b989ffae4f9.webp",
+    "static/media/logo_ruangguru.webp": "/static/media/logo_ruangguru.817d4a255a156d3537d9.webp",
+    "index.html": "/index.html",
+    "main.15bd2ef1.css.map": "/static/css/main.15bd2ef1.css.map",
+    "main.2388d48b.js.map": "/static/js/main.2388d48b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15bd2ef1.css",
+    "static/js/main.2388d48b.js"
+  ]
+}
